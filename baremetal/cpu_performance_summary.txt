@@ -1,0 +1,8 @@
+Environment | CPU Threads | Average Latency (ms) | Events/Second
+DockerEnv | 1 | 11.50 | 86.93
+DockerEnv | 2 | 10.22 | 195.57
+DockerEnv | 4 | 10.19 | 392.07
+DockerEnv | 8 | 10.54 | 756.58
+DockerEnv | 16 | 9.57 | 1667.79
+DockerEnv | 32 | 10.68 | 2993.14
+DockerEnv | 64 | 11.85 | 5396.59

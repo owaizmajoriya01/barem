@@ -1,0 +1,15 @@
+Env_Type | Thread_Count | Mean_Latency(ms) | Operations_Second
+Metal_Owaiz | 1 | 1.01 | 984.78
+Metal_Owaiz | 2 | 1.02 | 1967.27
+Metal_Owaiz | 4 | 1.01 | 3941.73
+Metal_Owaiz | 8 | 1.02 | 7874.67
+Metal_Owaiz | 16 | 1.02 | 15709.24
+Metal_Owaiz | 32 | 1.02 | 31419.53
+Metal_Owaiz | 64 | 1.43 | 44826.83
+Metal_Owaiz | 1 | 1.02 | 984.11
+Metal_Owaiz | 2 | 1.01 | 1972.54
+Metal_Owaiz | 4 | 1.02 | 3935.09
+Metal_Owaiz | 8 | 1.02 | 7859.02
+Metal_Owaiz | 16 | 1.02 | 15749.86
+Metal_Owaiz | 32 | 1.02 | 31311.15
+Metal_Owaiz | 64 | 1.28 | 50033.21
